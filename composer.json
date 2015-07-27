@@ -1,0 +1,22 @@
+{
+    "name": "xj/yii2-metroui",
+    "description": "yii2-metroui",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "bower-asset/metro": "~3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\metro\\": ""
+        }
+    }
+}
