@@ -12,7 +12,6 @@ class MetroUiAsset extends AssetBundle
 {
 
     public $sourcePath = '@bower/metro/build';
-    public $basePath = '@webroot/assets';
     public $js = [
         'js/metro.js',
     ];
